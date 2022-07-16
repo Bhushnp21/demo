@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10250" started-at="2022-06-29T10:27:00Z" finished-at="2022-06-29T10:27:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10250" started-at="2022-06-29T10:27:00Z" finished-at="2022-06-29T10:27:10Z">
+      <class name="TestNGPract.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGPract.LoginTest@2344fc66]" name="setup" is-config="true" duration-ms="5872" started-at="2022-06-29T10:27:00Z" finished-at="2022-06-29T10:27:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signup()[pri:1, instance:TestNGPract.LoginTest@2344fc66]" name="signup" duration-ms="2215" started-at="2022-06-29T10:27:06Z" finished-at="2022-06-29T10:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="pageTitle()[pri:2, instance:TestNGPract.LoginTest@2344fc66]" name="pageTitle" duration-ms="14" started-at="2022-06-29T10:27:08Z" finished-at="2022-06-29T10:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:TestNGPract.LoginTest@2344fc66]" name="loginTest" duration-ms="1067" started-at="2022-06-29T10:27:08Z" finished-at="2022-06-29T10:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestNGPract.LoginTest@2344fc66]" name="teardown" is-config="true" duration-ms="1036" started-at="2022-06-29T10:27:09Z" finished-at="2022-06-29T10:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNGPract.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
